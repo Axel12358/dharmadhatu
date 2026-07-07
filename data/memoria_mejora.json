@@ -1,0 +1,2637 @@
+{
+  "ejecuciones": [
+    {
+      "config": {
+        "max_eventos": 100,
+        "busquedas_facebook": 123,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Italia",
+          "Alemania"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 200,
+        "fuentes": 0,
+        "organizadores": 0,
+        "emails": 130,
+        "eventos_con_org": 0,
+        "eventos_con_email": 130,
+        "eventos_por_pais": 0,
+        "timestamp": "2026-07-07T12:37:56.499363",
+        "paises": {},
+        "fuentes_detalle": {}
+      },
+      "score": 915.0,
+      "timestamp": "2026-07-07T12:37:56.499460"
+    },
+    {
+      "config": {
+        "max_eventos": 100,
+        "busquedas_facebook": 123,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Italia",
+          "Alemania"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 200,
+        "fuentes": 0,
+        "organizadores": 0,
+        "emails": 130,
+        "eventos_con_org": 0,
+        "eventos_con_email": 130,
+        "eventos_por_pais": 0,
+        "timestamp": "2026-07-07T12:38:01.622654",
+        "paises": {},
+        "fuentes_detalle": {}
+      },
+      "score": 915.0,
+      "timestamp": "2026-07-07T12:38:01.622788"
+    },
+    {
+      "config": {
+        "max_eventos": 100,
+        "busquedas_facebook": 123,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Italia",
+          "Alemania"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 200,
+        "fuentes": 0,
+        "organizadores": 0,
+        "emails": 130,
+        "eventos_con_org": 0,
+        "eventos_con_email": 130,
+        "eventos_por_pais": 0,
+        "timestamp": "2026-07-07T12:38:06.729053",
+        "paises": {},
+        "fuentes_detalle": {}
+      },
+      "score": 915.0,
+      "timestamp": "2026-07-07T12:38:06.729166"
+    },
+    {
+      "config": {
+        "max_eventos": 100,
+        "busquedas_facebook": 123,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Italia",
+          "Alemania"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 200,
+        "fuentes": 0,
+        "organizadores": 0,
+        "emails": 130,
+        "eventos_con_org": 0,
+        "eventos_con_email": 130,
+        "eventos_por_pais": 0,
+        "timestamp": "2026-07-07T12:38:11.841545",
+        "paises": {},
+        "fuentes_detalle": {}
+      },
+      "score": 915.0,
+      "timestamp": "2026-07-07T12:38:11.841675"
+    },
+    {
+      "config": {
+        "max_eventos": 100,
+        "busquedas_facebook": 123,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Italia",
+          "Alemania"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 200,
+        "fuentes": 0,
+        "organizadores": 0,
+        "emails": 130,
+        "eventos_con_org": 0,
+        "eventos_con_email": 130,
+        "eventos_por_pais": 0,
+        "timestamp": "2026-07-07T12:38:16.953588",
+        "paises": {},
+        "fuentes_detalle": {}
+      },
+      "score": 915.0,
+      "timestamp": "2026-07-07T12:38:16.953706"
+    },
+    {
+      "config": {
+        "max_eventos": 100,
+        "busquedas_facebook": 123,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Italia",
+          "Alemania"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 200,
+        "fuentes": 0,
+        "organizadores": 0,
+        "emails": 130,
+        "eventos_con_org": 0,
+        "eventos_con_email": 130,
+        "eventos_por_pais": 0,
+        "timestamp": "2026-07-07T12:38:22.072592",
+        "paises": {},
+        "fuentes_detalle": {}
+      },
+      "score": 915.0,
+      "timestamp": "2026-07-07T12:38:22.072726"
+    },
+    {
+      "config": {
+        "max_eventos": 100,
+        "busquedas_facebook": 123,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Italia",
+          "Alemania"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 200,
+        "fuentes": 0,
+        "organizadores": 0,
+        "emails": 130,
+        "eventos_con_org": 0,
+        "eventos_con_email": 130,
+        "eventos_por_pais": 0,
+        "timestamp": "2026-07-07T12:38:27.181287",
+        "paises": {},
+        "fuentes_detalle": {}
+      },
+      "score": 915.0,
+      "timestamp": "2026-07-07T12:38:27.181406"
+    },
+    {
+      "config": {
+        "max_eventos": 100,
+        "busquedas_facebook": 123,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Italia",
+          "Alemania"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 200,
+        "fuentes": 0,
+        "organizadores": 0,
+        "emails": 130,
+        "eventos_con_org": 0,
+        "eventos_con_email": 130,
+        "eventos_por_pais": 0,
+        "timestamp": "2026-07-07T12:38:32.292858",
+        "paises": {},
+        "fuentes_detalle": {}
+      },
+      "score": 915.0,
+      "timestamp": "2026-07-07T12:38:32.292975"
+    },
+    {
+      "config": {
+        "max_eventos": 100,
+        "busquedas_facebook": 123,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Italia",
+          "Alemania"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 200,
+        "fuentes": 0,
+        "organizadores": 0,
+        "emails": 130,
+        "eventos_con_org": 0,
+        "eventos_con_email": 130,
+        "eventos_por_pais": 0,
+        "timestamp": "2026-07-07T12:38:37.408819",
+        "paises": {},
+        "fuentes_detalle": {}
+      },
+      "score": 915.0,
+      "timestamp": "2026-07-07T12:38:37.409124"
+    },
+    {
+      "config": {
+        "max_eventos": 100,
+        "busquedas_facebook": 123,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Italia",
+          "Alemania"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 200,
+        "fuentes": 0,
+        "organizadores": 0,
+        "emails": 130,
+        "eventos_con_org": 0,
+        "eventos_con_email": 130,
+        "eventos_por_pais": 0,
+        "timestamp": "2026-07-07T12:38:42.526734",
+        "paises": {},
+        "fuentes_detalle": {}
+      },
+      "score": 915.0,
+      "timestamp": "2026-07-07T12:38:42.526858"
+    },
+    {
+      "config": {
+        "max_eventos": 141,
+        "busquedas_facebook": 171,
+        "timeout": 27,
+        "priorizar_paises": [
+          "Francia",
+          "Portugal",
+          "Holanda"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:01:50.439303",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:01:50.440912"
+    },
+    {
+      "config": {
+        "max_eventos": 141,
+        "busquedas_facebook": 171,
+        "timeout": 27,
+        "priorizar_paises": [
+          "Francia",
+          "Portugal",
+          "Holanda"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:01:56.109809",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:01:56.110709"
+    },
+    {
+      "config": {
+        "max_eventos": 141,
+        "busquedas_facebook": 171,
+        "timeout": 27,
+        "priorizar_paises": [
+          "Francia",
+          "Portugal",
+          "Holanda"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:02:01.712423",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:02:01.713343"
+    },
+    {
+      "config": {
+        "max_eventos": 141,
+        "busquedas_facebook": 171,
+        "timeout": 27,
+        "priorizar_paises": [
+          "Francia",
+          "Portugal",
+          "Holanda"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:02:07.413257",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:02:07.414307"
+    },
+    {
+      "config": {
+        "max_eventos": 141,
+        "busquedas_facebook": 171,
+        "timeout": 27,
+        "priorizar_paises": [
+          "Francia",
+          "Portugal",
+          "Holanda"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:02:13.038959",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:02:13.039861"
+    },
+    {
+      "config": {
+        "max_eventos": 141,
+        "busquedas_facebook": 171,
+        "timeout": 27,
+        "priorizar_paises": [
+          "Francia",
+          "Portugal",
+          "Holanda"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:02:18.661409",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:02:18.662485"
+    },
+    {
+      "config": {
+        "max_eventos": 141,
+        "busquedas_facebook": 171,
+        "timeout": 27,
+        "priorizar_paises": [
+          "Francia",
+          "Portugal",
+          "Holanda"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:02:24.272984",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:02:24.273871"
+    },
+    {
+      "config": {
+        "max_eventos": 141,
+        "busquedas_facebook": 171,
+        "timeout": 27,
+        "priorizar_paises": [
+          "Francia",
+          "Portugal",
+          "Holanda"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:02:29.869523",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:02:29.870465"
+    },
+    {
+      "config": {
+        "max_eventos": 141,
+        "busquedas_facebook": 171,
+        "timeout": 27,
+        "priorizar_paises": [
+          "Francia",
+          "Portugal",
+          "Holanda"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:02:35.485071",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:02:35.486021"
+    },
+    {
+      "config": {
+        "max_eventos": 141,
+        "busquedas_facebook": 171,
+        "timeout": 27,
+        "priorizar_paises": [
+          "Francia",
+          "Portugal",
+          "Holanda"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:02:41.088722",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:02:41.089633"
+    },
+    {
+      "config": {
+        "max_eventos": 171,
+        "busquedas_facebook": 121,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Espa\u00f1a",
+          "Alemania",
+          "Holanda",
+          "Austria",
+          "B\u00e9lgica",
+          "Portugal",
+          "Italia",
+          "Francia",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Eventbrite",
+          "Resident Advisor"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:15:53.712581",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:15:53.714039"
+    },
+    {
+      "config": {
+        "max_eventos": 171,
+        "busquedas_facebook": 121,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Espa\u00f1a",
+          "Alemania",
+          "Holanda",
+          "Austria",
+          "B\u00e9lgica",
+          "Portugal",
+          "Italia",
+          "Francia",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Eventbrite",
+          "Resident Advisor"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:15:59.324753",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:15:59.325618"
+    },
+    {
+      "config": {
+        "max_eventos": 171,
+        "busquedas_facebook": 121,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Espa\u00f1a",
+          "Alemania",
+          "Holanda",
+          "Austria",
+          "B\u00e9lgica",
+          "Portugal",
+          "Italia",
+          "Francia",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Eventbrite",
+          "Resident Advisor"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:16:04.938677",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:16:04.939574"
+    },
+    {
+      "config": {
+        "max_eventos": 171,
+        "busquedas_facebook": 121,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Espa\u00f1a",
+          "Alemania",
+          "Holanda",
+          "Austria",
+          "B\u00e9lgica",
+          "Portugal",
+          "Italia",
+          "Francia",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Eventbrite",
+          "Resident Advisor"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:16:10.538124",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:16:10.539035"
+    },
+    {
+      "config": {
+        "max_eventos": 171,
+        "busquedas_facebook": 121,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Espa\u00f1a",
+          "Alemania",
+          "Holanda",
+          "Austria",
+          "B\u00e9lgica",
+          "Portugal",
+          "Italia",
+          "Francia",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Eventbrite",
+          "Resident Advisor"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:16:16.143404",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:16:16.144293"
+    },
+    {
+      "config": {
+        "max_eventos": 171,
+        "busquedas_facebook": 121,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Espa\u00f1a",
+          "Alemania",
+          "Holanda",
+          "Austria",
+          "B\u00e9lgica",
+          "Portugal",
+          "Italia",
+          "Francia",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Eventbrite",
+          "Resident Advisor"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:16:21.733577",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:16:21.734534"
+    },
+    {
+      "config": {
+        "max_eventos": 171,
+        "busquedas_facebook": 121,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Espa\u00f1a",
+          "Alemania",
+          "Holanda",
+          "Austria",
+          "B\u00e9lgica",
+          "Portugal",
+          "Italia",
+          "Francia",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Eventbrite",
+          "Resident Advisor"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:16:27.331618",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:16:27.332753"
+    },
+    {
+      "config": {
+        "max_eventos": 171,
+        "busquedas_facebook": 121,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Espa\u00f1a",
+          "Alemania",
+          "Holanda",
+          "Austria",
+          "B\u00e9lgica",
+          "Portugal",
+          "Italia",
+          "Francia",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Eventbrite",
+          "Resident Advisor"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:16:32.930651",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:16:32.931633"
+    },
+    {
+      "config": {
+        "max_eventos": 171,
+        "busquedas_facebook": 121,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Espa\u00f1a",
+          "Alemania",
+          "Holanda",
+          "Austria",
+          "B\u00e9lgica",
+          "Portugal",
+          "Italia",
+          "Francia",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Eventbrite",
+          "Resident Advisor"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:16:38.530641",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:16:38.531640"
+    },
+    {
+      "config": {
+        "max_eventos": 171,
+        "busquedas_facebook": 121,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Espa\u00f1a",
+          "Alemania",
+          "Holanda",
+          "Austria",
+          "B\u00e9lgica",
+          "Portugal",
+          "Italia",
+          "Francia",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Eventbrite",
+          "Resident Advisor"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:16:44.131016",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:16:44.131956"
+    },
+    {
+      "config": {
+        "max_eventos": 174,
+        "busquedas_facebook": 135,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Espa\u00f1a",
+          "Portugal",
+          "B\u00e9lgica",
+          "Austria",
+          "Holanda",
+          "Italia",
+          "Alemania",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Resident Advisor",
+          "Eventbrite"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:29:40.501546",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:29:40.503062"
+    },
+    {
+      "config": {
+        "max_eventos": 174,
+        "busquedas_facebook": 135,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Espa\u00f1a",
+          "Portugal",
+          "B\u00e9lgica",
+          "Austria",
+          "Holanda",
+          "Italia",
+          "Alemania",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Resident Advisor",
+          "Eventbrite"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:29:46.382956",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:29:46.383926"
+    },
+    {
+      "config": {
+        "max_eventos": 174,
+        "busquedas_facebook": 135,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Espa\u00f1a",
+          "Portugal",
+          "B\u00e9lgica",
+          "Austria",
+          "Holanda",
+          "Italia",
+          "Alemania",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Resident Advisor",
+          "Eventbrite"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:29:52.230256",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:29:52.231220"
+    },
+    {
+      "config": {
+        "max_eventos": 174,
+        "busquedas_facebook": 135,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Espa\u00f1a",
+          "Portugal",
+          "B\u00e9lgica",
+          "Austria",
+          "Holanda",
+          "Italia",
+          "Alemania",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Resident Advisor",
+          "Eventbrite"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:29:58.064539",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:29:58.065443"
+    },
+    {
+      "config": {
+        "max_eventos": 174,
+        "busquedas_facebook": 135,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Espa\u00f1a",
+          "Portugal",
+          "B\u00e9lgica",
+          "Austria",
+          "Holanda",
+          "Italia",
+          "Alemania",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Resident Advisor",
+          "Eventbrite"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:30:03.922856",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:30:03.923748"
+    },
+    {
+      "config": {
+        "max_eventos": 174,
+        "busquedas_facebook": 135,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Espa\u00f1a",
+          "Portugal",
+          "B\u00e9lgica",
+          "Austria",
+          "Holanda",
+          "Italia",
+          "Alemania",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Resident Advisor",
+          "Eventbrite"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:30:09.766216",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:30:09.767132"
+    },
+    {
+      "config": {
+        "max_eventos": 174,
+        "busquedas_facebook": 135,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Espa\u00f1a",
+          "Portugal",
+          "B\u00e9lgica",
+          "Austria",
+          "Holanda",
+          "Italia",
+          "Alemania",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Resident Advisor",
+          "Eventbrite"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:30:15.644185",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:30:15.645084"
+    },
+    {
+      "config": {
+        "max_eventos": 174,
+        "busquedas_facebook": 135,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Espa\u00f1a",
+          "Portugal",
+          "B\u00e9lgica",
+          "Austria",
+          "Holanda",
+          "Italia",
+          "Alemania",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Resident Advisor",
+          "Eventbrite"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:30:21.526596",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:30:21.527530"
+    },
+    {
+      "config": {
+        "max_eventos": 174,
+        "busquedas_facebook": 135,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Espa\u00f1a",
+          "Portugal",
+          "B\u00e9lgica",
+          "Austria",
+          "Holanda",
+          "Italia",
+          "Alemania",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Resident Advisor",
+          "Eventbrite"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:30:27.368977",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:30:27.369889"
+    },
+    {
+      "config": {
+        "max_eventos": 174,
+        "busquedas_facebook": 135,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Espa\u00f1a",
+          "Portugal",
+          "B\u00e9lgica",
+          "Austria",
+          "Holanda",
+          "Italia",
+          "Alemania",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Songkick",
+          "Resident Advisor",
+          "Eventbrite"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:30:33.257019",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:30:33.257930"
+    },
+    {
+      "config": {
+        "max_eventos": 176,
+        "busquedas_facebook": 132,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Alemania",
+          "B\u00e9lgica",
+          "Espa\u00f1a",
+          "Portugal",
+          "Italia",
+          "Austria",
+          "Holanda",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Eventbrite",
+          "Resident Advisor",
+          "Songkick"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:34:40.398565",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:34:40.400106"
+    },
+    {
+      "config": {
+        "max_eventos": 176,
+        "busquedas_facebook": 132,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Alemania",
+          "B\u00e9lgica",
+          "Espa\u00f1a",
+          "Portugal",
+          "Italia",
+          "Austria",
+          "Holanda",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Eventbrite",
+          "Resident Advisor",
+          "Songkick"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:34:46.272636",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:34:46.273543"
+    },
+    {
+      "config": {
+        "max_eventos": 176,
+        "busquedas_facebook": 132,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Alemania",
+          "B\u00e9lgica",
+          "Espa\u00f1a",
+          "Portugal",
+          "Italia",
+          "Austria",
+          "Holanda",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Eventbrite",
+          "Resident Advisor",
+          "Songkick"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:34:52.114429",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:34:52.115334"
+    },
+    {
+      "config": {
+        "max_eventos": 176,
+        "busquedas_facebook": 132,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Alemania",
+          "B\u00e9lgica",
+          "Espa\u00f1a",
+          "Portugal",
+          "Italia",
+          "Austria",
+          "Holanda",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Eventbrite",
+          "Resident Advisor",
+          "Songkick"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:34:57.953967",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:34:57.954890"
+    },
+    {
+      "config": {
+        "max_eventos": 176,
+        "busquedas_facebook": 132,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Alemania",
+          "B\u00e9lgica",
+          "Espa\u00f1a",
+          "Portugal",
+          "Italia",
+          "Austria",
+          "Holanda",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Eventbrite",
+          "Resident Advisor",
+          "Songkick"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:35:03.800183",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:35:03.801075"
+    },
+    {
+      "config": {
+        "max_eventos": 176,
+        "busquedas_facebook": 132,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Alemania",
+          "B\u00e9lgica",
+          "Espa\u00f1a",
+          "Portugal",
+          "Italia",
+          "Austria",
+          "Holanda",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Eventbrite",
+          "Resident Advisor",
+          "Songkick"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:35:55.902988",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:35:55.903915"
+    },
+    {
+      "config": {
+        "max_eventos": 176,
+        "busquedas_facebook": 132,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Alemania",
+          "B\u00e9lgica",
+          "Espa\u00f1a",
+          "Portugal",
+          "Italia",
+          "Austria",
+          "Holanda",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Eventbrite",
+          "Resident Advisor",
+          "Songkick"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:36:01.746408",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:36:01.747309"
+    },
+    {
+      "config": {
+        "max_eventos": 176,
+        "busquedas_facebook": 132,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Alemania",
+          "B\u00e9lgica",
+          "Espa\u00f1a",
+          "Portugal",
+          "Italia",
+          "Austria",
+          "Holanda",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Eventbrite",
+          "Resident Advisor",
+          "Songkick"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:36:07.587382",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:36:07.588424"
+    },
+    {
+      "config": {
+        "max_eventos": 176,
+        "busquedas_facebook": 132,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Alemania",
+          "B\u00e9lgica",
+          "Espa\u00f1a",
+          "Portugal",
+          "Italia",
+          "Austria",
+          "Holanda",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Eventbrite",
+          "Resident Advisor",
+          "Songkick"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:36:13.590431",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:36:13.591421"
+    },
+    {
+      "config": {
+        "max_eventos": 176,
+        "busquedas_facebook": 132,
+        "timeout": 20,
+        "priorizar_paises": [
+          "Francia",
+          "Alemania",
+          "B\u00e9lgica",
+          "Espa\u00f1a",
+          "Portugal",
+          "Italia",
+          "Austria",
+          "Holanda",
+          "Suiza"
+        ],
+        "priorizar_fuentes": [],
+        "extraer_contactos": true,
+        "agregar_fuentes": [
+          "Eventbrite",
+          "Resident Advisor",
+          "Songkick"
+        ],
+        "profundidad_busqueda": 4,
+        "paises_extra": []
+      },
+      "metricas": {
+        "total_eventos": 29,
+        "fuentes": 2,
+        "organizadores": 0,
+        "emails": 0,
+        "eventos_con_org": 0,
+        "eventos_con_email": 0,
+        "eventos_por_pais": 1,
+        "timestamp": "2026-07-07T13:36:19.486356",
+        "paises": {},
+        "fuentes_detalle": {
+          "Grupos Fijos": 15,
+          "Goabase": 14
+        }
+      },
+      "score": 54.0,
+      "timestamp": "2026-07-07T13:36:19.487252"
+    }
+  ],
+  "mejores_configs": [],
+  "historial": [
+    {
+      "total_eventos": 200,
+      "fuentes": 0,
+      "organizadores": 0,
+      "emails": 130,
+      "eventos_con_org": 0,
+      "eventos_con_email": 130,
+      "eventos_por_pais": 0,
+      "timestamp": "2026-07-07T12:37:56.499363",
+      "paises": {},
+      "fuentes_detalle": {}
+    },
+    {
+      "total_eventos": 200,
+      "fuentes": 0,
+      "organizadores": 0,
+      "emails": 130,
+      "eventos_con_org": 0,
+      "eventos_con_email": 130,
+      "eventos_por_pais": 0,
+      "timestamp": "2026-07-07T12:38:01.622654",
+      "paises": {},
+      "fuentes_detalle": {}
+    },
+    {
+      "total_eventos": 200,
+      "fuentes": 0,
+      "organizadores": 0,
+      "emails": 130,
+      "eventos_con_org": 0,
+      "eventos_con_email": 130,
+      "eventos_por_pais": 0,
+      "timestamp": "2026-07-07T12:38:06.729053",
+      "paises": {},
+      "fuentes_detalle": {}
+    },
+    {
+      "total_eventos": 200,
+      "fuentes": 0,
+      "organizadores": 0,
+      "emails": 130,
+      "eventos_con_org": 0,
+      "eventos_con_email": 130,
+      "eventos_por_pais": 0,
+      "timestamp": "2026-07-07T12:38:11.841545",
+      "paises": {},
+      "fuentes_detalle": {}
+    },
+    {
+      "total_eventos": 200,
+      "fuentes": 0,
+      "organizadores": 0,
+      "emails": 130,
+      "eventos_con_org": 0,
+      "eventos_con_email": 130,
+      "eventos_por_pais": 0,
+      "timestamp": "2026-07-07T12:38:16.953588",
+      "paises": {},
+      "fuentes_detalle": {}
+    },
+    {
+      "total_eventos": 200,
+      "fuentes": 0,
+      "organizadores": 0,
+      "emails": 130,
+      "eventos_con_org": 0,
+      "eventos_con_email": 130,
+      "eventos_por_pais": 0,
+      "timestamp": "2026-07-07T12:38:22.072592",
+      "paises": {},
+      "fuentes_detalle": {}
+    },
+    {
+      "total_eventos": 200,
+      "fuentes": 0,
+      "organizadores": 0,
+      "emails": 130,
+      "eventos_con_org": 0,
+      "eventos_con_email": 130,
+      "eventos_por_pais": 0,
+      "timestamp": "2026-07-07T12:38:27.181287",
+      "paises": {},
+      "fuentes_detalle": {}
+    },
+    {
+      "total_eventos": 200,
+      "fuentes": 0,
+      "organizadores": 0,
+      "emails": 130,
+      "eventos_con_org": 0,
+      "eventos_con_email": 130,
+      "eventos_por_pais": 0,
+      "timestamp": "2026-07-07T12:38:32.292858",
+      "paises": {},
+      "fuentes_detalle": {}
+    },
+    {
+      "total_eventos": 200,
+      "fuentes": 0,
+      "organizadores": 0,
+      "emails": 130,
+      "eventos_con_org": 0,
+      "eventos_con_email": 130,
+      "eventos_por_pais": 0,
+      "timestamp": "2026-07-07T12:38:37.408819",
+      "paises": {},
+      "fuentes_detalle": {}
+    },
+    {
+      "total_eventos": 200,
+      "fuentes": 0,
+      "organizadores": 0,
+      "emails": 130,
+      "eventos_con_org": 0,
+      "eventos_con_email": 130,
+      "eventos_por_pais": 0,
+      "timestamp": "2026-07-07T12:38:42.526734",
+      "paises": {},
+      "fuentes_detalle": {}
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:01:50.439303",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:01:56.109809",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:02:01.712423",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:02:07.413257",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:02:13.038959",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:02:18.661409",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:02:24.272984",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:02:29.869523",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:02:35.485071",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:02:41.088722",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:15:53.712581",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:15:59.324753",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:16:04.938677",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:16:10.538124",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:16:16.143404",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:16:21.733577",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:16:27.331618",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:16:32.930651",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:16:38.530641",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:16:44.131016",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:29:40.501546",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:29:46.382956",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:29:52.230256",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:29:58.064539",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:30:03.922856",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:30:09.766216",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:30:15.644185",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:30:21.526596",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:30:27.368977",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:30:33.257019",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:34:40.398565",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:34:46.272636",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:34:52.114429",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:34:57.953967",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:35:03.800183",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:35:55.902988",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:36:01.746408",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:36:07.587382",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:36:13.590431",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    },
+    {
+      "total_eventos": 29,
+      "fuentes": 2,
+      "organizadores": 0,
+      "emails": 0,
+      "eventos_con_org": 0,
+      "eventos_con_email": 0,
+      "eventos_por_pais": 1,
+      "timestamp": "2026-07-07T13:36:19.486356",
+      "paises": {},
+      "fuentes_detalle": {
+        "Grupos Fijos": 15,
+        "Goabase": 14
+      }
+    }
+  ]
+}
