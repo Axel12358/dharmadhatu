@@ -1,0 +1,8 @@
+venv/
+FBScrapeIdeas/
+facebook-events-scraper/
+facebook-group-scraper/
+fb-event-scraper/
+fb-events-scraper/
+.DS_Store
+data/
